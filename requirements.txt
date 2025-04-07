@@ -1,0 +1,12 @@
+# requirements.txt
+fastapi==0.115.6
+uvicorn==0.25.0
+pydantic==2.10.6
+# opendeepsearch==0.1.0  # Adjust version as needed
+git+https://github.com/sentient-agi/OpenDeepSearch.git
+python-dotenv==1.0.1
+loguru==0.7.3
+litellm==1.65.4
+smolagents==1.13.0
+torch==2.6.0
+nest_asyncio==1.6.0
